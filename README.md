@@ -3,7 +3,7 @@
 > **Solution Challenge 2026 | [Unbiased AI Decision] Ensuring Fairness and Detecting Bias in Automated Decisions**
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-fairlens--ai.web.app-blue?style=for-the-badge)](https://fairlens-ai.web.app)
-[![Demo Video](https://img.shields.io/badge/Demo%20Video-YouTube-red?style=for-the-badge)](https://youtu.be/fairlens-ai-demo-2026)
+[![Demo Video](https://img.shields.io/badge/Demo%20Video-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/19GW8bOE6CBqtidEvbFWfe07cngjMnLVg/view?usp=drive_link)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Google Gemini](https://img.shields.io/badge/Powered%20by-Google%20Gemini-orange?style=for-the-badge)](https://deepmind.google/technologies/gemini/)
 
@@ -201,9 +201,11 @@ Estimated fairness improvement: +0.44 on Disparate Impact Ratio
 
 ## 👥 Team
 
-**Team Name:** FairLens AI Team
-**Team Leader:** Vaishnavi Gaddam
+**Team Name:** FairLens AI
+**Team Leader:** Vaishnavi Gade
 **Event:** Solution Challenge 2026 — Build with AI (Hack2Skill × Google)
+
+**Demo Video:** [Watch on Google Drive](https://drive.google.com/file/d/19GW8bOE6CBqtidEvbFWfe07cngjMnLVg/view?usp=drive_link)
 
 ---
 
