@@ -36,38 +36,11 @@ Vaishnavi Gaddam
 
 ---
 
-### ✅ Step 3: Add requirements.txt
+Add requirements.txt
 Example:
-
 streamlit
 pandas
 numpy
 scikit-learn
 matplotlib
 
-
----
-
-### ✅ Step 4: (Optional but powerful)
-Add:
-- Screenshots 📸  
-- Demo video 🎥  
-- Live link (if deployed)
-
----
-
-## 💡 Final honest feedback
-Right now your repo looks like:
-> “Created but not developed”
-
-After fixing:
-> It will look like a **complete professional AI project** 🔥
-
----
-
-If you want, I can:
-- Review your actual project files  
-- Create a **perfect GitHub structure for your AI project**  
-- Help you deploy it (Streamlit / Hugging Face / Render)
-
-Just tell me 👍
