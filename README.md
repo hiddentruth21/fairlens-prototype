@@ -201,8 +201,8 @@ Estimated fairness improvement: +0.44 on Disparate Impact Ratio
 
 ## 👥 Team
 
-**Team Name:** FairLens AI
-**Team Leader:** Vaishnavi Gade
+**Team Name:** FairLens AI Team
+**Team Leader:** Vaishnavi Gaddam
 **Event:** Solution Challenge 2026 — Build with AI (Hack2Skill × Google)
 
 ---
